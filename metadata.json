@@ -1,0 +1,6 @@
+{
+  "name": "Hành trình chinh phục đỉnh núi bản lĩnh - Đạo đức 5",
+  "description": "Ứng dụng tương tác sư phạm Đạo đức lớp 5 - Bài 3: Vượt qua khó khăn. Giáo viên: Ngô Thị Hà - Lớp 5A7 - Trường Tiểu học Đỗ Ngọc Du.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
